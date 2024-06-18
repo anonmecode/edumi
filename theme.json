@@ -295,5 +295,28 @@
             },
             "blockGap": "4rem"
         }
-    }
+    },
+    "customTemplates": [
+        {
+            "name": "full-width-page",
+            "title": "Full Width Page",
+            "postTypes": [
+                "page"
+            ]
+        },
+        {
+            "name": "affiliate-page",
+            "title": "Affiliate Page",
+            "postTypes": [
+                "page"
+            ]
+        },
+        {
+            "name": "blank-page",
+            "title": "Blank Page",
+            "postTypes": [
+                "page"
+            ]
+        }
+    ]
 }
